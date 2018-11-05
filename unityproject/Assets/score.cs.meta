@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6197089bb1af3274981c7fa449ee1a24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - addhere: {instanceID: 0}
+  - hitsound: {instanceID: 0}
+  - newEnemy: {fileID: 1039934633352276, guid: 10a215bc68b6fbc478b316a3fed90b7c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
